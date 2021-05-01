@@ -10,5 +10,7 @@ In order to create your pricing model, the project is created using real histori
 By the end of the challenge I was to produce a model to price contracts for incoming policies for the 5th year.
 The company that makes the most profit in this market, wins the challenge.
 
-Thanks to my team,  Nikhil #-Nikhil,  and Christopher https://www.linkedin.com/in/nikhil-adithyan-32a8b91a5/
+Read more of the challenge here https://www.aicrowd.com/challenges/insurance-pricing-game
+
+Thanks to my team,  Nikhil and Christopher https://www.linkedin.com/in/nikhil-adithyan-32a8b91a5/
 https://www.linkedin.com/in/wanjohi-christopher-b9bb9b196/
